@@ -1,4 +1,4 @@
-# Bases de Datos en JSON
+# Bases de Datos con SQLite
 
 Este repositorio contiene los archivos JSON y los archivos .bd (formato permitido por SQLite) correspondientes a dos bases de datos:
 
